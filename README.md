@@ -1,3 +1,6 @@
+> :floppy_disk:   Bearbeitungsstand immer aktuell [hier im git](https://git.rpi-virtuell.de/Comenius-Institut/BaFID) speichern
+> :memo: Untenstehende Arbeitskopie zur kollaborativen Bearbeitung in Echtzeit [hier als HedgeDoc](https://pad.gwdg.de/SEJfLbNMTDaya_ySdM3nmA?both)
+
 # BaFID_fau
 <img src="https://www.bafid.fau.de/files/2020/11/cropped-bafid_logo_rz.jpg" alt="Logo BaFID" width="200"/>
 <img src="https://relilab.org/wp-content/uploads/2021/02/reliLab.jpeg" alt="Logo relilab" width="200"/>
